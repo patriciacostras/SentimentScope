@@ -1,4 +1,5 @@
 SentimentScope
+
 A sentiment analysis application using NLP (Natural Language Processing) and Flask. The project utilizes a fine-tuned BERT model to detect the sentiment (positive, negative, neutral) of a given text.
 
 How It Works
